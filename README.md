@@ -63,9 +63,21 @@ Kaggle IPL dataset (2008–2020):
 
 ---
 
-## 🎥 Screenshots (Optional – Add later)
+## 📸 Screenshots
 
-> 🖼️ Add Streamlit UI screenshots or a short GIF here.
+### 🏠 Dashboard Overview
+![Dashboard](images/dashboard.png)
+
+### 🎛️ Filters Sidebar
+![Filters](images/filters.png)
+
+### 🧢 Team & Year Selection
+![Team Selection](images/teams.png)
+![Year Selection](images/year.png)
+
+### 🏏 Top Run Scorer Visualization
+![Top Run Scorer](images/top_runscorer.png)
+
 
 ---
 
@@ -86,9 +98,10 @@ cd ipl-stats-explorer
 pip install -r requirements.txt
 streamlit run ipl_app.py
 
+---
 
-👩‍💻 Made by Sinchana
-A project built to sharpen my data science, visualization, and web app skills as part of my placement preparation journey. Feedback and suggestions are welcome!
+##👩‍💻 Made by Sinchana
+-- A project built to sharpen my data science, visualization, and web app skills as part of my placement preparation journey. Feedback and suggestions are welcome!
 
 
 
