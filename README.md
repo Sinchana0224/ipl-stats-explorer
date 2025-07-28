@@ -65,18 +65,35 @@ Kaggle IPL dataset (2008–2020):
 
 ## 📸 Screenshots
 
+Explore the IPL Match Stats Explorer dashboard through these visuals, showcasing interactivity and key analytics:
+
 ### 🏠 Dashboard Overview
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard.png)  
+*Interactive dashboard built using Streamlit, displaying IPL statistics in a clean and responsive layout.*
+
+---
 
 ### 🎛️ Filters Sidebar
-![Filters](images/filters.png)
+![Filters](images/filters.png)  
+*Sidebar with multi-select filters for dynamic customization based on teams and seasons.*
+
+---
 
 ### 🧢 Team & Year Selection
-![Team Selection](images/teams.png)
-![Year Selection](images/year.png)
+![Team Selection](images/teams.png)  
+*Team filter allowing users to focus on individual or multiple teams for deeper insights.*
+
+![Year Selection](images/year.png)  
+*Year selector enables users to analyze IPL data across one or more specific seasons.*
+
+---
 
 ### 🏏 Top Run Scorer Visualization
-![Top Run Scorer](images/top_runscorer.png)
+![Top Run Scorer](images/top_runscorer.png)  
+*Bar chart visualizing the top run-scorers based on selected filters, created using Plotly for interactivity.*
+
+---
+
 
 
 ---
